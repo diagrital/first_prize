@@ -85,7 +85,7 @@ centered_content = """
 }
 
 .center img {
-    max-width: 600px;
+    max-width: 100px;
 }
 </style>
 
